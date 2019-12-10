@@ -1,0 +1,33 @@
+{
+  "name": "wild-rydes-workshops",
+  "version": "1.0.0",
+  "description": "Workshops showcasing AWS serverless architectures and use cases.",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "concurrent-transform": "^1.0.0",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-babel": "^4.1.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.10.3",
+    "gulp": "^3.9.1",
+    "gulp-awspublish": "^3.3.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-print": "^2.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.8",
+    "js-yaml": "^3.8.3",
+    "through2": "^2.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git.amazon.com/pkg/WildRydesWorkshops"
+  },
+  "author": "Amazon.com, Inc.",
+  "license": "Apache-2.0"
+}
