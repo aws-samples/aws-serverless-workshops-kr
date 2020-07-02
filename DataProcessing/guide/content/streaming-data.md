@@ -152,7 +152,7 @@ Amazon Cognito 자격 증명 풀 생성하여 인증되지 않은 사용자에�
 
 1. **Resources**을 클릭하여 **wildrydes** 스트림으로 제한합니다.
 
-1. **stream** 옆에 있는 **Add ARN**를 클릭하십시오.
+1. **consumer** 옆에 있는 **Add ARN**를 클릭하십시오.
 
 1. **Add ARN (s)** 대화 상자에서 다음 정보를 입력하십시오.
 
@@ -177,6 +177,7 @@ Amazon Cognito 자격 증명 풀 생성하여 인증되지 않은 사용자에�
     * **Stream name**에 `wildrydes`
 
     <br/>
+    
     ![](../site/images/streaming-data-stream-arn.png)
 
 1. **Add**를 클릭하십시오.

@@ -13,7 +13,7 @@ Amazon Kinesis Data Analytics 애플리케이션은 이전 모듈에서 생성�
 
 #### 1. Amazon Kinesis 스트림 생성
 
-Amazon Kinesis Data Streams 콘솔을 사용하여 **wildrydes** 라는 이름의 새 스트림을 생성하십시오. 이때 샤드는 **1개**만 갖습니다.
+Amazon Kinesis Data Streams 콘솔을 사용하여 **wildrydes-summary** 라는 이름의 새 스트림을 생성하십시오. 이때 샤드는 **1개**만 갖습니다.
 
 **:white_check_mark:  단계별 지침**
 

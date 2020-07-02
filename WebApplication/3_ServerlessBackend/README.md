@@ -87,7 +87,7 @@ AWS Lambda 콘솔을 통해 API 요청을 처리할 `RequestUnicorn` 이라는 L
 1. **Create function**을 선택합니다. 
 1. **Author from scratch** 카드에서 기본 설정값을 유지합니다. 
 1. **Name** 필드에 `RequestUnicorn` 를 입력합니다. 
-1. **Runtime**으로는 **Node.js 8.10** 를 선택합니다.
+1. **Runtime**으로는 **Node.js 12.X** 를 선택합니다.
 2. **Permissions** 의  *Choose or create an execution role* 를 확장합니다.
 1. **Role** 드롭다운에서 `Use an existing role`을 선택했는지 확인합니다.  
 1. **Existing Role** 드롭다운에서 `WildRydesLambda`을 선택합니다. 
