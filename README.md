@@ -2,6 +2,8 @@
 
 이 리포지토리는 AWS Lambda, Amazon API Gateway, Amazon DynamoDB, AWS Step Functions, Amazon Kinesis 및 기타 서비스를 사용하여 다양한 서버리스 애플리케이션을 구축하는 데 도움이되는 워크샵 및 기타 실습 콘텐츠들을 포함합니다.
 
+이 워크샵의 원본은 https://github.com/aws-samples/aws-serverless-workshops 입니다. 
+
 # 워크샵
 
 - [**Web Application**](WebApplication) - 이 워크샵에서는 서버리스 동적 웹 애플리케이션을 빌드하는 방법을 보여줍니다. Amazon S3에서 정적 웹 리소스를 호스팅하는 방법, Amazon Cognito를 사용하여 사용자 및 인증을 관리하는 방법, Amazon API Gateway, AWS Lambda 및 Amazon DynamoDB를 사용하여 백엔드 처리를 위한 RESTful API를 구축하는 방법에 대해 알아 봅니다.

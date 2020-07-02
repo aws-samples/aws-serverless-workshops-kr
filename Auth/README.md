@@ -19,7 +19,5 @@
 3. **IAM 인증** - 이 모듈에서는 프로파일 관리 및 프로파일 사진 관리 기능을 활성화하여 Wild Rydes 애플리케이션을 확장합니다. Amazon Cognito는 사용자의 프로필 정보와 속성을 저장하는 데 사용되고 Amazon S3는 사용자의 프로필 정보에 저장된 사진에 대한 링크와 함께 사용자의 프로필 사진을 저장합니다.
 
 ## 시작하기
-
-시작하기 전에 [Getting Started Module](./0_GettingStarted)의 단계를 완료했는지 확인하십시오.
-
-이 단계를 완료하면 [모듈 1-사용자 인증](./1_UserAuthentication)으로 진행할 수 있습니다.
+다음 링크를 클릭하여 시작합니다. 
+https://auth.serverlessworkshops.io.
