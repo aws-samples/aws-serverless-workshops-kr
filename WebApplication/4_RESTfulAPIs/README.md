@@ -22,6 +22,10 @@ Amazon API Gateway 콘솔을 이용하여 `WildRydes`라는 이름의 새 API를
 **:white_check_mark: 단계별 지시 사항**
 1. [Amazon API Gateway Console][api-gw-console]로 이동합니다.
 1. **Get Started**을 선택합니다. 
+1. **REST API**, **Build** 를 선택합니다.
+
+     ![Choose an API type](../images/choose-an-api-type.png)
+
 1. **REST**, **New API** 를 선택하고 **API Name** 이름으로  `WildRydes`를 입력합니다. 
 1. **Endpoint Type** 드롭다운에서 `Edge optimized`를 선택합니다. 
     ***Note***: Edge optimized는 인터넷을 통해 접근하는 퍼블릭 서비스에 최적화되어 있습니다. 리전 엔드포인트는 일반적으로 주로 동일한 AWS 리전 내에서 액세스하는 API에 사용됩니다. 프라이빗 API는 Amazon VPC 내부의 인터널 서비스를 위한 것입니다.
